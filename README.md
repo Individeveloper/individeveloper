@@ -54,6 +54,5 @@
 
 ## 📈 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=individeveloper&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=B3B3B3&icon_color=FF0000" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=individeveloper&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FF0000&currStreakLabel=B3B3B3&sideNums=B3B3B3&sideLabels=B3B3B3&dates=B3B3B3" alt="GitHub Streak" width="48%" />
 </p>
