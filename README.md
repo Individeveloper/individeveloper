@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="URL_GAMBAR_BANNER_ANDA" alt="Lucifer Banner" width="100%">
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Halo,+Saya+[Nama+Anda]+%F0%9F%91%8B;Fullstack+Dev+%7C+Game+Dev+%7C+Data+Scientist;Selamat+datang+di+profil+GitHub+saya!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Halo,+Saya+Jayden+%F0%9F%91%8B;Fullstack+Dev+%7C+Game+Dev+%7C+Data+Scientist;Selamat+datang+di+profil+GitHub+saya!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -56,18 +52,8 @@
 
 <br/>
 
-## 📌 Proyek Pilihan
-
-| Nama Proyek | Domain | Deskripsi Singkat |
-| :--- | :--- | :--- |
-| **[Nama Proyek 1]** | Data Science | [Deskripsikan model AI/ML atau hasil analisis data Anda] |
-| **[Nama Proyek 2]** | Game Dev | [Deskripsikan mekanik game atau purwarupa yang Anda kembangkan] |
-| **[Nama Proyek 3]** | Fullstack | [Deskripsikan aplikasi web atau sistem yang Anda bangun] |
-
-<br/>
-
 ## 📈 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=B3B3B3&icon_color=FF0000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FF0000&currStreakLabel=B3B3B3&sideNums=B3B3B3&sideLabels=B3B3B3&dates=B3B3B3" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=individeveloper&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=B3B3B3&icon_color=FF0000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=individeveloper&hide_border=true&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FF0000&currStreakLabel=B3B3B3&sideNums=B3B3B3&sideLabels=B3B3B3&dates=B3B3B3" alt="GitHub Streak" width="48%" />
 </p>
