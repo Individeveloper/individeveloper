@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Halo,+Saya+[Nama+Anda]+%F0%9F%91%8B;Fullstack+Developer+%7C+Game+Dev+%7C+Data+Scientist;Membangun+Web,+Game,+dan+Kecerdasan+Buatan!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Halo,+Saya+Jayden+%F0%9F%91%8B;Fullstack+Developer+%7C+Game+Dev+%7C+Data+Scientist;Membangun+Web,+Game,+dan+Kecerdasan+Buatan!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -35,23 +35,13 @@
 
 ### 📊 Data Science & Analytics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,tensorflow,pytorch,mysql" alt="Data Science Stack" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql" alt="Data Science Stack" />
 </p>
-
-<br/>
-
-## 🏆 Highlight Proyek Teratas
-
-| 📌 Nama Proyek | 🎯 Domain | 💡 Deskripsi Singkat |
-| :--- | :--- | :--- |
-| **[Nama Proyek 1]** | Data Science | [Deskripsikan model AI/ML atau analisis data yang Anda buat] |
-| **[Nama Proyek 2]** | Game Dev | [Deskripsikan game yang Anda rilis atau kembangkan] |
-| **[Nama Proyek 3]** | Fullstack | [Deskripsikan aplikasi web yang Anda bangun dari *front-end* ke *back-end*] |
 
 <br/>
 
 ## 📈 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=individeveloper&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=individeveloper&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
