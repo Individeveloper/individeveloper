@@ -18,14 +18,11 @@ Theme reference (from your website):
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/username-anda">
+  <a href="https://www.linkedin.com/in/jayden-dwi-naufal-5a1b66294/">
     <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-anda.com">
+  <a href="https://www.individev.my.id/">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=F472B6" alt="Portfolio" />
-  </a>
-  <a href="mailto:emailanda@email.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=7C5CFC" alt="Email" />
   </a>
 </p>
 
