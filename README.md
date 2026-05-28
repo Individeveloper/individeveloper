@@ -110,9 +110,41 @@ Nama: **Jayden**
 
 ---
 
-## GitHub Stats
+# ✦ GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=individeveloper&hide_border=true&background=F8FAFC&ring=7C5CFC&fire=F472B6&currStreakNum=0F172A&currStreakLabel=334155&sideNums=0F172A&sideLabels=334155&dates=64748B" alt="GitHub Streak" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=individeveloper&theme=default" alt="GitHub Stats" width="49%" />
-</p>
+<div align="center">
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=individeveloper&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=7C5CFC&icon_color=5EEAD4&text_color=334155"
+    style="margin-right: 10px;"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=individeveloper&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=7C5CFC&text_color=334155"
+  />
+</div>
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img
+  src="https://streak-stats.demolab.com/?user=individeveloper&background=F8FAFC&border=7C5CFC&stroke=5EEAD4&ring=7C5CFC&fire=F472B6&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=334155&sideLabels=334155&dates=64748B"
+  height="190"
+/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=individeveloper&bg_color=F8FAFC&color=334155&line=7C5CFC&point=F472B6&area=true&area_color=5EEAD4&border_color=7C5CFC&hide_border=true"
+  width="100%"
+/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
