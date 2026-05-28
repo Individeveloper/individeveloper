@@ -114,5 +114,5 @@ Nama: **Jayden**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=individeveloper&hide_border=true&background=F8FAFC&ring=7C5CFC&fire=F472B6&currStreakNum=0F172A&currStreakLabel=334155&sideNums=0F172A&sideLabels=334155&dates=64748B" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=individeveloper&show_icons=true&hide_border=true&bg_color=F8FAFC&title_color=0F172A&text_color=334155&icon_color=7C5CFC&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=individeveloper&theme=default" alt="GitHub Stats" width="49%" />
 </p>
