@@ -9,7 +9,7 @@
      ═══════════════════════════════════════════════════════════════ -->
 
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=%3Cindividev%2F%3E+Jayden;Solo+Developer+Studio;Crafting+Digital+Experiences;Inspire+%C2%B7+Innovate+%C2%B7+Engage+%C2%B7+Deliver"
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=B6B09F&center=true&vCenter=true&width=900&lines=%3Cindividev%2F%3E+Jayden;Solo+Developer+Studio;Crafting+Digital+Experiences;Inspire+%C2%B7+Innovate+%C2%B7+Engage+%C2%B7+Deliver"
   alt="Typing SVG"
 />
 
