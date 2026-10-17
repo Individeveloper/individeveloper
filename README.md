@@ -22,12 +22,11 @@ dan siap dipakai di dunia nyata.
 <br/>
 
 <a href="https://www.linkedin.com/in/jayden-dwi-naufal-5a1b66294/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=EAE4D5" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-F2F2F2?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
 </a>&nbsp;
 <a href="https://www.individev.my.id/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=EAE4D5" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-F2F2F2?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio" />
 </a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=individeveloper&color=EAE4D5&style=for-the-badge&label=VISITORS" alt="Profile Views" />
 
 <br/><br/>
 
